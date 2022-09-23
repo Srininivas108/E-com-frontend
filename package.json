@@ -1,6 +1,6 @@
 {
   "name": "frontend",
-  "proxy": "https://ecommapp-backend.herokuapp.com/",
+  "proxy": "https://ecommapp-backend.herokuapp.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
